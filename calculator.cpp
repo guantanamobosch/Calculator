@@ -1,3 +1,6 @@
+// --------------------
+// Method 1
+
 // #include <iostream>
 // using namespace std;
 
@@ -45,7 +48,7 @@
 // }
 
 // --------------------
-// Another method
+// Method 2
 
 #include <iostream>
 using namespace std;
